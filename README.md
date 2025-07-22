@@ -2,7 +2,7 @@
 
 🎓 IT Undergrad @ NSUT | 💻 Developer in Progress | 🤖 ML & DSA Enthusiast
 
-I'm passionate about solving real-world problems with code, exploring AI/ML, and collaborating in dev communities. Currently, I’m learning **Deep Learning**, contributing to open source, and gearing up for future hackathons and tech opportunities.
+I'm passionate about solving real-world problems with code, exploring AI/ML, and mastering **Data Structures & Algorithms**. Currently, I’m focused on learning **Deep Learning** and improving my DSA skills through regular practice and projects.
 
 ---
 
