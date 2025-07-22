@@ -1,55 +1,41 @@
-# 📄 Samik Parashar's Resume
+# Hi there, I'm Samik! 👋
 
-Hi! I'm **Samik Parashar**, an Information Technology student at Netaji Subhas University of Technology (NSUT), passionate about **Data Structures**, **Competitive Programming**, and **Machine Learning**.
+🎓 IT Undergrad @ NSUT | 💻 Developer in Progress | 🤖 ML & DSA Enthusiast
 
-This repository contains my latest resume and serves as a digital portfolio of my skills, achievements, and interests.
-
----
-
-## 🔹 About Me
-
-- 🎓 **B.Tech (IT)** – NSUT (2024–2028), CGPA: 8.36  
-- 🧠 Strong foundation in **DSA** and **algorithmic thinking**
-- 🤖 Currently learning **Machine Learning** & **Deep Learning**
-- 💻 Actively participating in coding contests and dev communities
+I'm passionate about solving real-world problems with code, exploring AI/ML, and collaborating in dev communities. Currently, I’m learning **Deep Learning**, contributing to open source, and gearing up for future hackathons and tech opportunities.
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Exponentia Finalist** – St. Stephen’s College, Delhi University
-- 🔢 **200+ problems** solved on LeetCode
-- ⚔️ **Codeforces rating**: 1002
-- 🎸 Certified in Guitar (Trinity College London)
-- 🌱 Member – **Enactus NSUT** (social innovation)
-- 👨‍💻 Member – **Devcomm NSUT** (developer community)
-
----
-
-## 💻 Technical Skills
-
+## 🔧 Tech Stack
 - **Languages**: C++, Python  
-- **Libraries**: NumPy, Pandas, scikit-learn, TensorFlow, Keras  
-- **Tools**: VS Code, Jupyter, Google Colab, Kaggle, GitHub  
-- **Concepts**: DSA, Machine Learning, Deep Learning
+- **ML/DL Libraries**: NumPy, Pandas, scikit-learn, TensorFlow, Keras  
+- **Tools & Platforms**: Git, GitHub, Google Colab, Jupyter, Kaggle, VS Code  
 
 ---
 
-## 🌟 Interests
-
-- 🚴‍♂️ Cycling
-- 🏓 Table Tennis & Football
-- 🎸 Guitar
-- ✈️ Drone Building
+## 🌱 Currently Learning
+- Deep Learning (ANNs, CNNs, Transfer Learning)
+- Data Visualization (Matplotlib, Seaborn)
+- GitHub Workflows & Open Source Collaboration
+- Competitive Programming (LeetCode, Codeforces)
 
 ---
 
-## 🔗 Links
+## 🏆 Highlights
+- 🥈 *Finalist*, Exponentia – St. Stephen’s College, DU  
+- 🔢 Solved 200+ LeetCode problems  
+- ⚔️ Codeforces Rating: 1002  
+- 🧠 Active member of DevComm NSUT & Enactus NSUT  
+- 🎸 Certified Guitarist (Trinity College London)
 
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/samik-parashar-a1a06431a/)
+- 🧠 [Codolio](https://codolio.com/profile/SamikParashar)
 - 📧 [Email](mailto:samik.parashar.ug24@nsut.ac.in)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samik-parashar-a1a06431a/)
-- 🌐 [Codolio Profile](https://codolio.com/profile/SamikParashar)
+- 🐱 GitHub: [@SamikParashar](https://github.com/SamikParashar)
 
 ---
 
-> 📌 _This repository is a living document and will be updated as I grow in my academic and professional journey._
+> Always curious. Always building. Let's connect and collaborate!
