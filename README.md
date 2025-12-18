@@ -23,9 +23,9 @@ I'm passionate about solving real-world problems with code, exploring AI/ML, and
 
 ## 🏆 Highlights
 - 🥈 *Finalist*, Exponentia – St. Stephen’s College, DU  
-- 🔢 Solved 200+ LeetCode problems  
-- ⚔️ Codeforces Rating: 1002  
-- 🧠 Active member of DevComm NSUT & Enactus NSUT  
+- 🔢 Solved 300+ LeetCode problems  
+- ⚔️ Codeforces Rating: 1015 
+- 🧠 Active member of DevComm NSUT & IGTS NSUT  
 - 🎸 Certified Guitarist (Trinity College London)
 
 ---
